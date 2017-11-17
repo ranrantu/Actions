@@ -1,2 +1,2 @@
 # Actions
-Actions make action smoothly!
+Actions make every action look smoothly!
